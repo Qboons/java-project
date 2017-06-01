@@ -7,6 +7,6 @@ public class Demo {
     public static void main(String[] args) {
         Student K = new Student();
 
-        System.out.println("gdfgdf ");
+        System.out.println("Name "+K.getName());
     }
 }
