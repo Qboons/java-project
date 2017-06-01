@@ -6,6 +6,7 @@ package pl.edu.pwsz.student.demo;
 public class Demo {
     public static void main(String[] args) {
         Student K = new Student();
+        K.setName("Kuba");
 
         System.out.println("Name "+K.getName());
     }
